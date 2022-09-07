@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Detecting and Removing Web Application Vulnerabilities with Static Analysis and Data Mining">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Detecting_and_Removing_Web_Application_Vulnerabilities_with_Static_Analysis_and_Data_Mining"/>
+        <property name="java-output-path" value="/Detecting and Removing Web Application Vulnerabilities with Static Analysis and Data Mining/build/classes"/>
+    </wb-module>
+</project-modules>

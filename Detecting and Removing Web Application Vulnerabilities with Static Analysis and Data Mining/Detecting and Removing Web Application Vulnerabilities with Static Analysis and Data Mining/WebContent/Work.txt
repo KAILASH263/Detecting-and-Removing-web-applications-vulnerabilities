@@ -1,0 +1,7 @@
+Admin  --- Login
+
+         --- View users and authorize
+
+Users --- Register and Login
+
+          View Profile
